@@ -1,0 +1,37 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  background-image: url('assets/sebastian-pichler-bAQH53VquTc-unsplash.jpg');
+}
+header, footer {
+  background: #007BFF;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+main {
+  padding: 2rem;
+}
+.hero {
+  margin-bottom: 2rem;
+}
+.grid {
+  display: flex;
+  gap: 1rem;
+}
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  flex: 1;
+  background-image: url('assets/sebastian-pichler-bAQH53VquTc-unsplash.jpg');
+}
+.card:hover {
+  background: #eee;
+}
