@@ -1,1 +1,0 @@
-<footer><p>&copy; 2025 Cricket Management System</p></footer>
